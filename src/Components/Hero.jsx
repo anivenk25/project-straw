@@ -30,7 +30,7 @@ export const Hero = ({ onClick }) => {
                         </p>
                         <div className="buttons mt-10 md:mt-24 w-full flex flex-row justify-center" onClick={onClick}>
                             <div className=' border-white p-2 cursor-pointer hover:bg-[#ffffff66] border-solid text-white border-2 flex flex-row gap-2 hover:gap-4 hover:-translate-y-1 hover:scale-110 duration-300'>
-                                <a href='https://project-straw-twggpfvkbocxyevr57hbge.streamlit.app/'>Explore Technologies</a>
+                                <a href="https://project-straw-twggpfvkbocxyevr57hbge.streamlit.app/">Explore Technologies</a>
                                 <div className=' flex items-center'>
                                     <BsArrowRight />
                                 </div>
